@@ -6,7 +6,7 @@ This repository contains my Pyhton lecture notes. Numerous references are used t
   <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202560451-a55bc779-0df9-44e8-8429-ebaeb156a4a1.gif">
 </p>
 
-1- [Hydrologic Water Cycle and Mass Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Hydrologic-Design_Notebook/blob/main/Chapter1.ipynb)
+1- [Hydrologic Water Cycle and Mass Balance](https://github.com/aebtehaj/Hydrologic-Design_Notebook/blob/main/Chapter1.ipynb)
 
 2- [Atmospheric Water and Precipitation](https://htmlpreview.github.io/?https://github.com/aebtehaj/Hydrologic-Design_Notebook/blob/main/Chapter2.ipynb)
 
